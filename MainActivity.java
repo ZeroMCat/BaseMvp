@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void logi() {
+        String T="1";
+        String T2="1";
     }
 }
